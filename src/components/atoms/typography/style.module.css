@@ -1,0 +1,42 @@
+.typography {
+  font-weight: 400;
+}
+.small {
+  font-size: 0.7rem;
+}
+.medium {
+  font-size: 0.8rem;
+}
+.large {
+  font-size: 0.1rem;
+}
+.primary {
+  color: blue;
+}
+.warning {
+  color: yellow;
+}
+.default {
+  color: black;
+}
+.error {
+  color: red;
+}
+.center {
+  text-align: center;
+}
+.inherit {
+  text-align: inherit;
+}
+.justify {
+  text-align: justify;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.bold {
+  font-weight: 700;
+}

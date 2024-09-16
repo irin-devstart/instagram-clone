@@ -1,0 +1,35 @@
+.image {
+  object-fit: cover;
+}
+.small {
+  height: 50px;
+  width: 50px;
+}
+.medium {
+  height: 200px;
+  width: 200px;
+}
+.large {
+  height: 400px;
+  width: 400px;
+}
+
+.rounded-xs {
+  border-radius: 0.4em;
+}
+.rounded-sm {
+  border-radius: 0.6em;
+}
+.rounded-md {
+  border-radius: 0.8em;
+}
+.rounded-lg {
+  border-radius: 0.1em;
+}
+.rounded-xl {
+  border-radius: 50%;
+}
+
+.border {
+  border: 2px solid hsl(0, 100%, 50%);
+}
